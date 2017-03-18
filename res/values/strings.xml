@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, PracticeActivity!</string>
+    <string name="app_name">跌倒智能监测报警</string>
+    <string name="x">X轴加速度</string>
+    <string name="y">Y轴加速度</string>
+    <string name="z">Z轴加速度</string>
+    <string name="settings">设置选项</string>
+    <string name="notes">说明：从文本框输入联系人姓名和电话，或者点击选择联系人从通讯录选择，点击更新联系人更新信息</string>
+    <string name="notes_sms">说明：在下面的框中编辑紧急短信的内容，若手机检测到严重跌倒发生，会自动将以下内容发送给设定的紧急联系人。如果设置了发送位置信息，还会将摔倒的地点信息一起发送。</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_other_setting">Other_setting</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

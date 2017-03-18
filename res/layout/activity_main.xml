@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    > 
+
+    <ImageButton
+        android:id="@+id/OnButton"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:background="@drawable/start"
+        android:layout_marginTop="30dp" />
+
+    <ImageButton
+        android:id="@+id/voiceButton"
+        android:layout_width="170dp"
+        android:layout_height="71dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/advance" />
+
+    <ImageButton
+        android:id="@+id/settingButton"
+        android:layout_width="171dp"
+        android:layout_height="71dp"
+        android:layout_gravity="center"
+        android:background="@drawable/setting" />
+
+</LinearLayout>
